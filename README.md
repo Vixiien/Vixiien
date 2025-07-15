@@ -55,6 +55,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vixiien&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixiien&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Vixiien&theme=tokyonight" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vixiien&theme=tokyonight" height="180"/>
+</p>
+
 
