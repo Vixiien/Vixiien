@@ -3,6 +3,8 @@
 <p align="center">
   <b>Front-End Developer | React | Tailwind | JS/TS | HTML/CSS</b>
 </p>
+---
+### 👁️‍🗨️ Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vixiien&label=Profile%20views&color=0e75b6&style=flat" alt="Vixiien" />
@@ -11,7 +13,14 @@
 ---
 
 ### 🚀 Tech Stack
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -37,14 +46,6 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354299/vercel-icon.svg" width="48" height="48" alt="Vercel" />
-      <br>Vercel
     </td>
   </tr>
 </table>
