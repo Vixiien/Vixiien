@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my zone! 🚀</h1>
 
 <p align="center">
-  <b>Front-End Developer | React | Tailwind | JS/TS | HTML/CSS | NextJS | Bootsrap | NodeJS | MySQL</b>
+  <b>Front-End Developer | React | Tailwind | JavaScript/TypeScript | HTML/CSS | NextJS | Bootsrap | NodeJS | MySQL</b>
 </p>
 
 ### 👁️‍🗨️ Profile Views 
