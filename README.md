@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my zone! 🚀</h1>
+<h1 align="center">Welcome to my zone! </h1>
 
 <p align="center">
   <b>Front-End Developer | React | Tailwind | JS/TS | HTML/CSS | Vercel</b>
@@ -34,10 +34,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vixiien&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixiien&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Vixiien&theme=tokyonight" height="150"/>
 </p>
