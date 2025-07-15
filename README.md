@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🧠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -55,8 +55,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vixiien&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixiien&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vixiien&theme=tokyonight" height="150"/>
 </p>
+
