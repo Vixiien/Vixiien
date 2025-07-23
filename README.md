@@ -60,7 +60,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixiien&layout=compact&theme=tokyonight" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixiien&theme=tokyonight" height="180"/>
+     <img src="https://streak-stats.demolab.com/?user=Vixiien&theme=tokyonight" height="180"/>
     </td>
   </tr>
 </table>
