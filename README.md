@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my zone! 🚀</h1>
+<h1 align="center">ℹ️ About me</h1>
 
 <p align="center">
   <b>Front-End Developer | React | Tailwind | JavaScript/TypeScript | HTML/CSS | NextJS | Bootsrap | NodeJS | MySQL</b>
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### 🖥️ Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
